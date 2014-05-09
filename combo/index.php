@@ -93,7 +93,7 @@ function idnieto($nombre,$valor)
 	</style>
 </head>
 <body>
-<h1>Ejemplo de Combobox o Select Dependientes con PHP y Jquery | Martin Iglesias</h1>
+<h1>Ejemplo de Combo box o Select Dependientes con PHP y Jquery | Martin Iglesias</h1>
 <p>
 <strong>Nota:</strong> Para nuestro ejemplo, utilizamos 3 selects. Vamos a preasignar valores. padre=1, hijo=2, nieto=3</p>
 </p>
